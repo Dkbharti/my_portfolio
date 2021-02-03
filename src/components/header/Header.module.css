@@ -1,0 +1,23 @@
+nav{
+    margin: 5px 0 0 0 ;
+}
+.mylink{
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+}
+
+
+ul{
+    margin: 0 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: tomato;
+}

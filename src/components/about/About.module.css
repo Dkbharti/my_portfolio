@@ -1,0 +1,16 @@
+.aboutBack{
+    background-color: #0D181C;
+}
+
+.resumeBtn{
+    background-color: #1A414F;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 3px;
+    border: none;
+}
+
+.resumeBtn:hover{
+    background-color: white;
+    color: #1A414F;
+}
